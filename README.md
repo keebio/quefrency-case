@@ -5,7 +5,6 @@ Here's case design file for the [Quefrency](https://keeb.io/products/quefrency-6
 
 To be uploaded soon:
 
-- STLs for printing a middle layer for both halves
 - SVGs for left and right plates
 
 License
