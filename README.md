@@ -15,6 +15,10 @@ To be uploaded soon:
 
 - SVGs for left and right plates
 
+## Rev. 2
+
+The plate files in the [main rev2 directory](rev2/) are designed for 1.5mm thick plates. If doing acrylic plates, then either a thickness of 3mm or 5mm should be used. Files for these thicker plates can be found in the [3mm Plates](rev2/3mm Plates) and [5mm Plates](rev2/5mm Plates) directories. The difference with these thicker plates is that the stabilizer cutouts are larger to accomdate the stabilzer housing and wire.
+
 License
 -------
 These case files are released under the MIT License.
