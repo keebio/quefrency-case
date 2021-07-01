@@ -23,6 +23,16 @@ The plate files in the [main rev2 directory](rev2/) are designed for 1.5mm thick
 ### 3D printed middle layers
 The current STLs are temporary ones, and better ones that fit around the TRRS jack and USB-C port will be worked on and released later.
 
+## Rev. 3
+
+The only difference between Rev. 2 and 3 is that Rev. 3 replaced the TRRS port with a USB-C port. The Rev. 2 files should still work fine with the Rev. 3 PCB.
+
+Inside of the [rev3 directory](rev3/) are files to print an enclosing shell around the board. They will need to be used in conjuction with the FR4 plates from the store.
+
+Additional variations on the files still in the works (i.e. variations without encoder cover).
+
+The top shells for Rev. 3 can be used for Rev. 2, but currently, there's no matching middle layer files to match the shells.
+
 License
 -------
 These case files are released under the MIT License.
