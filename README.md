@@ -27,6 +27,8 @@ The current STLs are temporary ones, and better ones that fit around the TRRS ja
 
 The only difference between Rev. 2 and 3 is that Rev. 3 replaced the TRRS port with a USB-C port. The Rev. 2 files should still work fine with the Rev. 3 PCB.
 
+![](images/rev3-shells.jpeg)
+
 Inside of the [rev3 directory](rev3/) are files to print an enclosing shell around the board. They will need to be used in conjuction with the FR4 plates from the store.
 
 Additional variations on the files still in the works (i.e. variations without encoder cover).
