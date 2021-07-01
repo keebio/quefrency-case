@@ -31,7 +31,7 @@ The only difference between Rev. 2 and 3 is that Rev. 3 replaced the TRRS port w
 
 Inside of the [rev3 directory](rev3/) are files to print an enclosing shell around the board. They will need to be used in conjuction with the FR4 plates from the store.
 
-Additional variations on the files still in the works (i.e. variations without encoder cover).
+Additional variations on the files still in the works (i.e. Right 60% half).
 
 The top shells for Rev. 3 can be used for Rev. 2, but currently, there's no matching middle layer files to match the shells.
 
