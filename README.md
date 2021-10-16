@@ -29,11 +29,13 @@ The only difference between Rev. 2 and 3 is that Rev. 3 replaced the TRRS port w
 
 ![](images/rev3-shells.jpeg)
 
-Inside of the [rev3 directory](rev3/) are files to print an enclosing shell around the board. They will need to be used in conjuction with the FR4 plates from the store.
-
-Additional variations on the files still in the works (i.e. Right 60% half).
+Inside of the [enclosed-case-rev3-rev4 directory](enclosed-case-rev3-rev4/) are files to print an enclosing shell around the board. They will need to be used in conjuction with the FR4 plates from the store.
 
 The top shells for Rev. 3 can be used for Rev. 2, but currently, there's no matching middle layer files to match the shells.
+
+## Rev. 4
+
+For the Rev. 4 hotswap PCB, you can use the files in [enclosed-case-rev3-rev4 directory](enclosed-case-rev3-rev4/). Plates are the same as [Rev. 2](rev2/). If you want the blockered version of the right half switch plate, see the [Rev. 4](rev4/) directory.
 
 License
 -------
