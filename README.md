@@ -23,19 +23,21 @@ The plate files in the [main rev2 directory](rev2/) are designed for 1.5mm thick
 ### 3D printed middle layers
 The current STLs are temporary ones, and better ones that fit around the TRRS jack and USB-C port will be worked on and released later.
 
+## Enclosed Case
+
+![](images/rev3-shells.jpeg)
+
+Inside of the [enclosed-case directory](enclosed-case/) are files to print an enclosing shell around the board. They will need to be used in conjuction with the FR4 plates from the store.
+
+These files are compatible with Rev. 2 through 4. For Rev. 2, use the middle layer files marked with `Rev. 2`.
+
 ## Rev. 3
 
 The only difference between Rev. 2 and 3 is that Rev. 3 replaced the TRRS port with a USB-C port. The Rev. 2 files should still work fine with the Rev. 3 PCB.
 
-![](images/rev3-shells.jpeg)
-
-Inside of the [enclosed-case-rev3-rev4 directory](enclosed-case-rev3-rev4/) are files to print an enclosing shell around the board. They will need to be used in conjuction with the FR4 plates from the store.
-
-The top shells for Rev. 3 can be used for Rev. 2, but currently, there's no matching middle layer files to match the shells.
-
 ## Rev. 4
 
-For the Rev. 4 hotswap PCB, you can use the files in [enclosed-case-rev3-rev4 directory](enclosed-case-rev3-rev4/). Plates are the same as [Rev. 2](rev2/). If you want the blockered version of the right half switch plate, see the [Rev. 4](rev4/) directory.
+For the Rev. 4 hotswap PCB, you can use the files in [enclosed-case directory](enclosed-case/). Plates are the same as [Rev. 2](rev2/). If you want the blockered version of the right half switch plate, see the [Rev. 4](rev4/) directory.
 
 License
 -------
