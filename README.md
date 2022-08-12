@@ -29,7 +29,7 @@ The current STLs are temporary ones, and better ones that fit around the TRRS ja
 
 Inside of the [enclosed-case directory](enclosed-case/) are files to print an enclosing shell around the board. They will need to be used in conjuction with the FR4 plates from the store.
 
-These files are compatible with Rev. 2 through 4. For Rev. 2, use the middle layer files marked with `Rev. 2`.
+These files are compatible with Rev. 2 through 5. For Rev. 2, use the middle layer files marked with `Rev. 2`.
 
 ## Rev. 3
 
