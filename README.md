@@ -29,9 +29,9 @@ The current STLs are temporary ones, and better ones that fit around the TRRS ja
 
 Inside of the [enclosed-case directory](enclosed-case/) are files to print an enclosing shell around the board. They will need to be used in conjuction with the FR4 plates from the store.
 
-These files are compatible with Rev. 2 through 4. For Rev. 2, use the middle layer files marked with `Rev. 2`.
+These files are compatible with Rev. 2 through 6. For Rev. 2, use the middle layer files marked with `Rev. 2`.
 
-## Rev. 3
+## Rev. 3-5
 
 The only difference between Rev. 2 and 3 is that Rev. 3 replaced the TRRS port with a USB-C port. The Rev. 2 files should still work fine with the Rev. 3 PCB.
 
