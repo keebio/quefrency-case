@@ -35,9 +35,9 @@ These files are compatible with Rev. 2 through 6. For Rev. 2, use the middle lay
 
 The only difference between Rev. 2 and 3 is that Rev. 3 replaced the TRRS port with a USB-C port. The Rev. 2 files should still work fine with the Rev. 3 PCB.
 
-## Rev. 4
+## Rev. 4 & 5
 
-For the Rev. 4 hotswap PCB, you can use the files in [enclosed-case directory](enclosed-case/). Plates are the same as [Rev. 2](rev2/). If you want the blockered version of the right half switch plate, see the [Rev. 4](rev4/) directory.
+For the Rev. 4 & 5 hotswap PCBs, you can use the files in [enclosed-case directory](enclosed-case/). Plates are the same as [Rev. 2](rev2/). If you want the blockered version of the right half switch plate, see the [Rev. 4](rev4/) directory.
 
 License
 -------
